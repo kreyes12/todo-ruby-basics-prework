@@ -11,7 +11,7 @@ def argue(assertion)
 end
 
 def greeting(greeting, name)
-  raise ArgumentError.new("This method must accept two arguments.")
+  raise ArgumentError.new("This method must accept two arguments.") unless 
 end
 
 def return_a_value(var="Nice")
