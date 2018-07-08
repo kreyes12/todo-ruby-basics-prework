@@ -18,7 +18,7 @@ def return_a_value(var="Nice")
 end
 
 def last_evaluated_value(var="expert")
-
+  return var
 end
 
 def pizza_party
