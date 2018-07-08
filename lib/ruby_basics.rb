@@ -10,7 +10,7 @@ def argue(assertion)
   return assertion
 end
 
-def greeting
+def greeting(greeting, name)
   raise ArgumentError
 end
 
