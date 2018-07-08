@@ -11,10 +11,10 @@ def argue(assertion)
 end
 
 def greeting
-  if greeting.
 end
 
 def return_a_value
+  return "Nice"
 
 end
 
