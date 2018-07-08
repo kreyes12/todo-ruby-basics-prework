@@ -11,6 +11,7 @@ def argue(assertion)
 end
 
 def greeting
+  raise ArgumentError
 end
 
 def return_a_value(var="Nice")
